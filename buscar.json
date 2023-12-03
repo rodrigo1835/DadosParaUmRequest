@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"name": "Haburguer",
+		"description": "Feito com muita carne e um recheio duplo de cheedar"
+	
+	},
+	
+		{
+		"id": 2,
+		"name": "Macarrão bolanhesa",
+		"description": "Muita bolonhesa e bastante molho de tomate"
+	
+	},
+	
+		{
+		"id": 3,
+		"name": "Ravioli",
+		"description": "Feita com farinha italiana e queijo de qualidade"
+	
+	},
+	
+		{
+		"id": 4,
+		"name": "Bolo",
+		"description": "Muito chocolate e uma camada dupla de cream cheese"
+	
+	}
+	
+]
+
+
